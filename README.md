@@ -7,6 +7,9 @@ The input NiFTi files should be copied in **input_data** folder path.
 2. Multiple Nifti Files
 ### Output
 Output path folder: **prediction**
+
+
+
 ├── prediction/  # save the all segmentation result.
 │   ├── original_file/ # Save orignal input file.
 │   ├── third_ventricle_mask/ # Segmented Third Ventricle Mask.
