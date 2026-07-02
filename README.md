@@ -3,7 +3,7 @@ Pipeline for Ventricular-Specific Lateral and Third ChP Segmentation using Swin-
 
 ## Python Code Envoirment Setup
 
-Install the required packages listed in **requirements.txt** file. The code run smoothly with Python 3.8 version and pytorch 12.0 version.
+Install the required packages listed in **requirements.txt** file. The code run smoothly with Python 3.8 version.
 Clone the repository and navigate to repository.
 
 ```bash
