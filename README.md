@@ -7,7 +7,7 @@ The input NiFTi files should be copied in **input_data** folder path.
 2. Multiple Nifti Files
 ### Output
 Output path folder: **prediction**
-
+</>
 project/
 ├── src/
 │   ├── components/
