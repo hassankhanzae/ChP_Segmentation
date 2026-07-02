@@ -7,12 +7,14 @@ The input NiFTi files should be copied in **input_data** folder path.
 2. Multiple Nifti Files
 ### Output
 Output path folder: **prediction**
-project/
-├── prediction/  # save the all segmentation result.
-│   ├── original_file/ # Save orignal input file.
-│   ├── third_ventricle_mask/ # Segmented Third Ventricle Mask.
-│   ├── third_chp_mask/ # Segmented Third Ventricle ChP Mask.
-│   ├── lat_ventricle_mask/ # Segmented Lateral Ventricle Mask. 
-│   ├── lat_chp_mask/ # Segmented Lateral Ventricle ChP Mask.
-│   ├── combined_ventricles/ # Combined Lateral and Third Ventricle Masks.
-│   ├── combined_chp/ # Combined Lateral and Third ChP Masks. 
+prediction/
+├── original_file/                 # Saves original input files
+│
+├── third_ventricle_mask/         # Segmented third ventricle mask
+├── third_chp_mask/               # Segmented third ventricle choroid plexus (ChP) mask
+│
+├── lat_ventricle_mask/           # Segmented lateral ventricle mask
+├── lat_chp_mask/                 # Segmented lateral ventricle choroid plexus (ChP) mask
+│
+├── combined_ventricles/          # Combined lateral + third ventricle masks
+└── combined_chp/                 # Combined lateral + third ChP masks
