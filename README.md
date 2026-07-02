@@ -10,7 +10,7 @@ Clone the repository and navigate to repository.
 git clone https://github.com/hassankhanzae/ChP_Segmentation.git
 cd ChP_Segmentation
 python pipeline.py
-```bash
+```
 
 ### Input/Output-Format
 The input NiFTi files should be copied in **input_data** folder path.
