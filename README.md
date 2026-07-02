@@ -1,0 +1,2 @@
+# ChP_Segmentation
+Pipeline for Ventricular-Specific Lateral and Third ChP Segmentation using Swin- Transformer U-Net with Convolutional Block Attention Module (CBAM)
