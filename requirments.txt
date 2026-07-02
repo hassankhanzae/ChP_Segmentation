@@ -1,0 +1,5 @@
+numpy
+torch
+nibabel
+tqdm
+scipy
