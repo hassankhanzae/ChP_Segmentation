@@ -5,11 +5,8 @@ Pipeline for Ventricular-Specific Lateral and Third ChP Segmentation using Swin-
 The input NiFTi files should be copied in **input_data** folder path.
 1. Single Nifti File(.nii or .nii.gz)
 2. Multiple Nifti Files
-### Output
+### Output Prediction
 Output path folder: **prediction**
-
-### Prediction Directory Structure
-
 ```text
 prediction/
 ├── original_file/
