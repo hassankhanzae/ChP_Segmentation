@@ -8,8 +8,8 @@ The input NiFTi files should be copied in **input_data** folder path.
 ### Output Prediction
 Output path folder: **prediction**
 ```text
-prediction/
-├── original_file/
+prediction/ 
+├── original_file/ # Saves original input files
 ├── third_ventricle_mask/
 ├── third_chp_mask/
 ├── lat_ventricle_mask/
