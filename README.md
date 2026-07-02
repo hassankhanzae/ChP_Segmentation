@@ -10,9 +10,9 @@ Output path folder: **prediction**
 ```text
 prediction/ 
 ├── original_file/ # Saves original input files
-├── third_ventricle_mask/
-├── third_chp_mask/
-├── lat_ventricle_mask/
-├── lat_chp_mask/
-├── combined_ventricles/
-└── combined_chp/
+├── third_ventricle_mask/ # Segmented third ventricle mask
+├── third_chp_mask/ # Segmented third ventricle ChP mask
+├── lat_ventricle_mask/ # Segmented lateral ventricle mask
+├── lat_chp_mask/ # Segmented lateral ventricle ChP mask
+├── combined_ventricles/ # Combined lateral + third ventricle masks
+└── combined_chp/ # Combined lateral + third ChP masks
