@@ -6,7 +6,9 @@ Pipeline for Ventricular-Specific Lateral and Third ChP Segmentation using Swin-
 Install the required packages listed in **requirements.txt** file. The code run smoothly with Python 3.8 version and pytorch 12.0 version.
 Clone the repository and navigate to repository.
 
-[https://github.com/hassankhanzae/ChP_Segmentation.git](https://github.com/hassankhanzae/ChP_Segmentation.git)
+```bash
+git clone https://github.com/hassankhanzae/ChP_Segmentation.git
+cd ChP_Segmentation
 
 ### Input/Output-Format
 The input NiFTi files should be copied in **input_data** folder path.
