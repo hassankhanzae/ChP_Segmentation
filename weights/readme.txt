@@ -1,1 +1,0 @@
-Download the weights from www.google.com and put it in weights folder.
