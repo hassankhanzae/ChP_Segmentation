@@ -1,6 +1,12 @@
 # ChP_Segmentation
 Pipeline for Ventricular-Specific Lateral and Third ChP Segmentation using Swin- Transformer U-Net with Convolutional Block Attention Module (CBAM)
 
+## Python Code Envoirment Setup
+
+Install the required packages listed in **requirements.txt** file. The code run smoothly with Python 3.8 version and pytorch 12.0 version.
+Clone the repository and navigate to repository.
+
+
 ### Input/Output-Format
 The input NiFTi files should be copied in **input_data** folder path.
 1. Single Nifti File(.nii or .nii.gz)
