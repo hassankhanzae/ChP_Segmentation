@@ -27,3 +27,21 @@ prediction/
 ├── lat_chp_mask/ # Segmented lateral ventricle ChP mask
 ├── combined_ventricles/ # Combined lateral + third ventricle masks
 └── combined_chp/ # Combined lateral + third ChP masks
+```
+
+### Required Pipeline Structure
+```text
+project/
+│
+├── pipeline.py
+├── weights/
+│   ├── lventricle_best_model.pth
+│   ├── lchp_best_model.pth
+│   ├── 3ventricle_best_model.pth
+│   └── 3chp_best_model.pth
+│
+├── input_data/
+│   ├── case1.nii.gz
+│   ├── case2.nii.gz
+│
+└── prediction/   (#Predicted Segmentations Auto-Created Folder)
