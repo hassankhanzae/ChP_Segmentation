@@ -35,10 +35,10 @@ project/
 │
 ├── pipeline.py
 ├── weights/
-│   ├── lventricle_best_model.pth
-│   ├── lchp_best_model.pth
-│   ├── 3ventricle_best_model.pth
-│   └── 3chp_best_model.pth
+│   ├── lventricle_weight.pth
+│   ├── lchp_weight.pth
+│   ├── 3ventricle_weight.pth
+│   └── 3chp_best_weight.pth
 │
 ├── input_data/
 │   ├── case1.nii.gz
