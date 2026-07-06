@@ -11,11 +11,14 @@ git clone https://github.com/hassankhanzae/ChP_Segmentation.git
 cd ChP_Segmentation
 python pipeline.py
 ```
+### Download Train Model Weights
+Download the weights for the trained model from [Google drive]([https://example.com](https://drive.google.com/drive/folders/18zV-amDe2JP_jiHTXkAdm0k5JZgIXFPK?usp=share_link)) and copy the downloaded weights in the **weights** folder.
 
 ### Input/Output-Format
 The input NiFTi files should be copied in **input_data** folder path.
 1. Single Nifti File(.nii or .nii.gz)
 2. Multiple Nifti Files
+
 ### Output Prediction
 Output path folder: **prediction**
 ```text
