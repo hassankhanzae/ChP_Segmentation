@@ -1,1 +1,1 @@
-Download the weights from www.google.com and put it in weights folder.
+Download the weights from [Google drive](https://drive.google.com/drive/folders/18zV-amDe2JP_jiHTXkAdm0k5JZgIXFPK?usp=share_link) and put it in weights folder.
